@@ -170,5 +170,4 @@ Las contribuciones son bienvenidas. Por favor:
 Si tienes preguntas o encontras problemas, abre un issue en el repositorio.
 
 ---
-
-**Hecho con ❤️ para obtener coordenadas fácilmente** 📍
+te amo Abigail para obtener coordenadas  📍
