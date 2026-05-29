@@ -171,4 +171,4 @@ Si tienes preguntas o encontras problemas, abre un issue en el repositorio.
 
 ---
 
-**Hecho con ❤️ para obtener coordenadas fácilmente** 📍
+** Te amo ABIGAIL para obtener coordenadas fácilmente** 📍
