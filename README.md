@@ -56,12 +56,12 @@ Una aplicación web moderna para obtener, visualizar y gestionar coordenadas GPS
 ## 📁 Estructura del Proyecto
 
 ```
-Apps-coreem/
+ABIGAILTEAMO/
 ├── index.html          # Página principal
 ├── styles.css          # Estilos CSS
 ├── script.js           # Lógica JavaScript
 ├── README.md           # Este archivo
-└── Apps-coreem-main.zip # Archivo original (opcional)
+└─Abigailteamo-main.zip # Archivo original (opcional)
 ```
 
 ## 🛠️ Tecnologías Utilizadas
