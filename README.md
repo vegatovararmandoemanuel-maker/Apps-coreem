@@ -88,7 +88,7 @@ ABIGAILTEAMO/
 
 ```bash
 # Clonar el repositorio
-git clone https://github.com/vegatovararmandoemanuel-maker/ABIGAILTEAMO.git
+git clone https://github.com/vegatovararmandoemanuel-maker/ABIGAILTEAMO.github.io
 
 # Navegar a la carpeta
 cd ABIGAILTEAMO
